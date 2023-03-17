@@ -4,7 +4,7 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-	  "build":"reejs packit vercel"
+    "build": "reejs packit vercel"
   },
   "dependencies": {
     "reejs": "0.8.3",
