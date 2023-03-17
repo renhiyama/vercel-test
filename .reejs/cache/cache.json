@@ -1,0 +1,21 @@
+{
+  "https://esm.sh/sade@1.8.1?target=node&bundle": "173bc2f914480043f71d00a05fc4fe3b722c91559c3c4284fcd5211c6509d66a.js",
+  "https://esm.sh/ora@6.1.2?target=node&bundle": "4ea47d90e60631e02c99e109a1f5bfaa02e50e3d479fa516ae91e767399c9b7e.js",
+  "https://esm.sh/hono@3.0.3?target=node&bundle": "9446e40c858a3caaceac5c66f735fca99aad9121e30ecf0cb07c94bc219e32ef.js",
+  "https://esm.sh/@hono/node-server@0.3.0?target=node&bundle": "b73c5327712f19a5abdeca7151262b46ed01fffd0bc5b51881fc637ddf1d8ec6.js",
+  "https://esm.sh/preact@10.13.1/compat?target=node&bundle": "2bdb080b0e9f2cacdce99e9e049d3c4403aeb3d55bc76a45e4268fccdda384ff.js",
+  "https://esm.sh/preact-render-to-string@5.2.6?target=node&bundle": "e72d16497cdba5a820da7019c3ac389bd0be2915470f4bc54725cd9b5643797d.js",
+  "https://esm.sh/v111/hono@3.0.3/node/hono.bundle.js": "a983aa262b78a248fbc87d57330716d2ebc06b7fd02d1b4ad064d5d42b883c47.js",
+  "https://esm.sh/v111/preact-render-to-string@5.2.6/node/preact-render-to-string.bundle.js": "884377e2993ecd6445107cc795caf75c8e3a7ea484fd4fd32c825702230aafdf.js",
+  "https://esm.sh/v111/@hono/node-server@0.3.0/node/node-server.bundle.js": "8ecab6612f2a5dbe36aa26d54da55174af1b70b910fa29aaa9c86bd94b13fd15.js",
+  "https://esm.sh/stable/preact@10.13.1/node/compat.js": "f3f4a9d2ae114636b72556b2270b7067c7a6e25c6a13cf93500f410a6dd5e21c.js",
+  "https://esm.sh/stable/preact@10.13.1/node/preact.js": "8d3055a3fedf2a1556f950ea1dea26b8e543e141ae6ac190de25a030e2ab1602.js",
+  "https://esm.sh/stable/preact@10.13.1/node/hooks.js": "bd8e632fceafb1ee33ab98f2bef83465e5e6f6ac933c87e309337f2bda8b95dd.js",
+  "https://esm.sh/@hono/node-server@0.3.0/serve-static?target=node&bundle": "27c185b16c8b8798142cedad5ff1e716ae199d52f77597c1e09353fb4eee659f.js",
+  "https://esm.sh/v111/@hono/node-server@0.3.0/node/serve-static.bundle.js": "9bde3be8a0c2af3ca43ae6d25dcdc16d23765b16f3670f82a0b08088456631b4.js",
+  "https://esm.sh/v111/hono@3.0.5/node/utils/filepath.js": "cdd5666d9ac47776b48891ccb9f63c09d3cff90c767736219e9b2b38c68aa517.js",
+  "https://esm.sh/v111/hono@3.0.5/node/utils/mime.js": "2f6a3d4522c0781740ef28627585a01c2004366ee6e7b664cc2ff736c233506c.js",
+  "https://esm.sh/terser@5.16.6?target=node&bundle": "700d016d4e2bb06a2bbc1f93c6a49063e517dd437e2b53fea4ab364a5cc5b557.js",
+  "https://esm.sh/hono@3.0.3/nextjs?target=node&bundle": "1191f245017cef97111fb750cfa440051cae5c2cd803d56777dca4f87640a930.js",
+  "https://esm.sh/v111/hono@3.0.3/node/nextjs.bundle.js": "4e110f7d1a909a9b68cfdd749b5041a7b7363868c1672dfdfde601d36c7163c8.js"
+}

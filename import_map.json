@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "hono": "https://esm.sh/hono@3.0.3?target=node&bundle",
+    "@hono/node-server": "https://esm.sh/@hono/node-server@0.3.0?target=node&bundle",
+    "react": "https://esm.sh/preact@10.13.1/compat?target=node&bundle",
+    "render": "https://esm.sh/preact-render-to-string@5.2.6?target=node&bundle",
+    "@hono/serve-static": "https://esm.sh/@hono/node-server@0.3.0/serve-static?target=node&bundle",
+    "@hono/nextjs": "https://esm.sh/hono@3.0.3/nextjs?target=node&bundle"
+  },
+  "browserImports": {}
+}

@@ -1,0 +1,4 @@
+node_modules/*
+.packit/*
+package-lock.json
+

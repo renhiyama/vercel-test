@@ -1,0 +1,21 @@
+{
+  "name": "rstest",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+	  "build":"reejs packit vercel"
+  },
+  "dependencies": {
+    "reejs": "0.8.2",
+    "@reejs/imports": "2.0.5",
+    "@reejs/server": "0.8.2",
+    "@hono/node-server": "file:./.reejs/deps/@hono/node-server",
+    "hono": "file:./.reejs/deps/hono",
+    "react": "file:./.reejs/deps/react",
+    "render": "file:./.reejs/deps/render",
+    "@hono/serve-static": "file:./.reejs/deps/@hono/serve-static",
+    "@hono/nextjs": "file:./.reejs/deps/@hono/nextjs"
+  },
+  "license": "MIT"
+}
